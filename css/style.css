@@ -43,6 +43,7 @@ body {
   min-width: 37.5rem;
   max-width: 110rem;
   margin: 0 auto;
+  background: url(../images/bg-pattern-top-desktop.svg);
 }
 .contenedor {
   margin-top: 10rem;
@@ -116,7 +117,7 @@ body {
   background-color: var(--very-dark);
   padding: 4rem 3rem 4rem 3rem;
   border-radius: 10px;
-  margin-bottom: 1rem;
+  margin-bottom: 2rem;
   height: 28rem;
 }
 @media (min-width: 770px) {
